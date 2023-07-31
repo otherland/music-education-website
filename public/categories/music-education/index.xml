@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Website</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Website</description>
+    <title>music education on Website</title>
+    <link>/categories/music-education/</link>
+    <description>Recent content in music education on Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/music-education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who is the most successful reggae artist</title>
       <link>/posts/most-successful-reggae-artist/</link>
