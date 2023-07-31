@@ -1,6 +1,6 @@
 baseURL = ''
 languageCode = 'en-uk'
-title = 'Website'
+title = 'Music Learning'
 paginate = "10" # Number of posts per page
 theme = "mainroad"
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
@@ -27,7 +27,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.logo]
   image = "img/placeholder.png" # Logo image. Path relative to "static"
-  title = "Alexander Mastery" # Logo title, otherwise will use site title
+  title = "Music Learning" # Logo title, otherwise will use site title
   subtitle = "Reach Your Dreams" # Logo subtitle
 
 [Params.sidebar]
